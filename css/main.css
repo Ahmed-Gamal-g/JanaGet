@@ -3024,6 +3024,10 @@ table {
 .icon-whats i {
   font-size: 30px;
 }
+
+.icon-whats i:hover {
+  color: white !important;
+}
 /* end massege whats */
 
 /* start page Sign up */
